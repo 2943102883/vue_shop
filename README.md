@@ -1,6 +1,6 @@
 # About
 
-此项目是vue + element-ui构建的后台管理系统。后端是用express构建的，有需要的小伙伴可以在上面直接clone
+此项目是vue + element-ui构建的后台管理系统。后端是用express构建的，有需要的小伙伴可以直接git
 
 
 
@@ -70,3 +70,18 @@ node app.js
 
 ## 部分截图
 
+![用户列表](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E7%94%A8%E6%88%B7%E5%88%97%E8%A1%A8.jpg)
+
+![角色列表](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8.jpg)
+
+![权限列表](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E6%9D%83%E9%99%90%E5%88%97%E8%A1%A8.jpg)
+
+![商品列表](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E5%95%86%E5%93%81%E5%88%97%E8%A1%A8.jpg)
+
+![分类参数](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E5%88%86%E7%B1%BB%E5%8F%82%E6%95%B0.jpg)
+
+![商品分类](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E5%95%86%E5%93%81%E5%88%86%E7%B1%BB.jpg)
+
+![订单列表](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8.jpg)
+
+![数据报表](https://raw.githubusercontent.com/2943102883/vue_shop/master/imgs/%E6%95%B0%E6%8D%AE%E6%8A%A5%E8%A1%A8.jpg)
